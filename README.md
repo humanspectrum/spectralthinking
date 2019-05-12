@@ -5,6 +5,7 @@
 Spectral Thinking (ST) is a set of patterns and tools for your personal and collective thinking process. Spectral Thinking focuses on capturing the diversity and variability present in the world and developing engines to operate them.
 
 ## Goals and Motivation
+
 Spectral Thinking is a research project focused on finding practical tools to operate two key concepts: human diversity and time-awareness. We develop ST in the context of the unrolling digital transformation, and cultural and social changes introduced by new technologies. 
 
 Our ambition is:
@@ -22,7 +23,7 @@ Spectral Thinking is inspired by various practical schemas of exploring and defi
 
 The Spectral Thinking methodology is open and free. ST development is a community effort. We use GitHub to develop and store our tutorials, samples, templates, cards, etc. You are welcome to fork and contribute back or ask a question through the issues.
 
-## Language
+## Languages
 
 We have a goal to keep all documents related to the Spectral Thinking bilingual. We use English and Russian as the primary languages. Not everything is translated literally; we try to choose explanations and definitions that better fit every language and culture. You are free to add your editing or translate to other languages as well.
 
