@@ -8,10 +8,10 @@ Spectral Thinking (ST) is a set of patterns and tools for your personal and coll
 
 Spectral Thinking is a research project focused on finding practical tools to operate two key concepts: human diversity and time-awareness. We develop ST in the context of the unrolling digital transformation, and cultural and social changes introduced by new technologies. 
 
-Our ambition is:
-1. To explore the human perspective and so to bring it back to the equation.
+Our ambitions are:
+1. To explore the human perspective and to bring it back to the innovation equation.
 2. To make discussions and reflections more time-aware to improve our ability to operate at an increased speed of changes.
-
+3. To find new ways to work with the future considering the variability of possible trajectories.
 
 ## Origin 
 
