@@ -28,7 +28,7 @@ Example:
 1. I'm good at composing the big picture. -> Event: there is a narrow time constraings, that excludes processing all the information.
 2. I 2m tall. -> Event: broke my legs, height doesn't matter. Event: moved to a country of tall people like Netherlands.
 
-Template: [Module H. The Circle of Debunking](\en-us\Spectral Thinking - Module H. The Circle of Debunking.en-us.pdf)
+Template: [Module H. The Circle of Debunking](".\en-us\Spectral Thinking - Module H. The Circle of Debunking.en-us.pdf")
 
 Group variation (recommended): 
 3. Pass the list with attributes to the next person. Get similar list from the previous one.
