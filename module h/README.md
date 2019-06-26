@@ -16,6 +16,8 @@ As human beings (until some very specific moment in our lives) we use to think a
 
 #### 1. The circle of Debunking.
 
+![The circle of Debunking](https://github.com/humanspectrum/spectralthinking/blob/master/module%20h/en-us/Spectral%20Thinking%20-%20Module%20H.%20The%20Circle%20of%20Debunking.en-us.png)
+
 **Instruction**:
 
 1. Take a list of paper and a pen. 
@@ -28,7 +30,7 @@ As human beings (until some very specific moment in our lives) we use to think a
 1. I'm good at composing the big picture. -> Event: there is a narrow time constraings, that excludes processing all the information.
 2. I 2m tall. -> Event: broke my legs, height doesn't matter. Event: moved to a country of tall people like Netherlands.
 
-**Template**: [Module H. The Circle of Debunking]("https://github.com/humanspectrum/spectralthinking/blob/master/module%20h/en-us/Spectral%20Thinking%20-%20Module%20H.%20The%20Circle%20of%20Debunking.en-us.pdf")
+**Template**: [Module H. The Circle of Debunking]("https://github.com/humanspectrum/spectralthinking/blob/master/module%20h/en-us/Spectral%20Thinking%20-%20Module%20H.%20The%20Circle%20of%20Debunking.en-us.png")
 
 **Group variation** (recommended): 
 
