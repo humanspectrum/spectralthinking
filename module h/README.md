@@ -16,7 +16,7 @@ As human beings (until some very specific moment in our lives) we use to think a
 
 #### 1. The circle of Debunking.
 
-![The circle of Debunking](https://github.com/humanspectrum/spectralthinking/blob/master/module%20h/en-us/Spectral%20Thinking%20-%20Module%20H.%20The%20Circle%20of%20Debunking.en-us.png)
+![The circle of Debunking](https://github.com/humanspectrum/spectralthinking/blob/master/module%20h/en-us/Spectral%20Thinking%20-%20Module%20H.%20The%20Circle%20of%20Debunking.en-us.PNG)
 
 **Instruction**:
 
