@@ -19,4 +19,4 @@
 
 ### Упражнения
 
-1. [Круг развенчания]()
+1. [Круг развенчания](https://github.com/humanspectrum/spectralthinking/blob/master/module%20h/circleofdebunking.ru-ru.md) -- для сильных духом.
