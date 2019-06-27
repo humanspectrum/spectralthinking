@@ -1,4 +1,4 @@
-# The Circle of Debunking.
+# The Circle of Debunking
 
 ![The circle of Debunking](https://github.com/humanspectrum/spectralthinking/blob/master/module%20h/en-us/Spectral%20Thinking%20-%20Module%20H.%20The%20Circle%20of%20Debunking.en-us.PNG)
 
