@@ -18,5 +18,5 @@ Meanwhile some of the exercises might make you really depressed (so be careful!)
 
 ### Exercises
 
-1. [The circle of Debunking](https://github.com/humanspectrum/spectralthinking/blob/master/module%20h/circleofdebunking.md) -- for the strongest ones.
+1. [The Circle of Debunking](https://github.com/humanspectrum/spectralthinking/blob/master/module%20h/circleofdebunking.md) -- for the strongest ones.
 
